@@ -19,7 +19,7 @@ Ten plik zawiera podsumowanie moich pierwszych kroków w systemie Debian, przygo
 | `touch` | Tworzy pusty plik | `touch notatka.txt` |
 | `cp` | Kopiuje plik | `cp kod.c backup.c` |
 | `mv` | Przenosi plik lub zmienia jego nazwę | `mv stary.c nowy.c` |
-| `rm -r` | Usuwa plik lub folder (bezвозвраtnie!) | `rm -r stare_smieci/` |
+| `rm -r` | Usuwa plik lub folder (bezpowrotnie!) | `rm -r stare_smieci/` |
 
 ## 📝 Edycja Tekstu i Programowanie
 
