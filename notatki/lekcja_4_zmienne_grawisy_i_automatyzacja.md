@@ -10,7 +10,7 @@ Zmienne to "pudełka" na dane. W terminalu wywołujemy je znakiem `$`.
 
 ## 2. Podstawianie komend (Grawisy i $())
 Linux pozwala wstawić wynik jednej komendy do drugiej.
-- Stara metoda: `` `komenda\` `` (użycie grawisów).
+- Stara metoda: `` `komenda` `` (użycie grawisów).
 - Nowa metoda: `$(komenda)`.
 *Przykład:* `echo "Dzisiaj jest $(date)"` - system najpierw sprawdza datę, a potem wstawia ją do zdania.
 
