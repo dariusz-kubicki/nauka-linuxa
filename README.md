@@ -9,3 +9,6 @@ Moje notatki z nauki systemu Linux (Debian). Dokumentuję tu drogę od podstaw t
 * [Lekcja 5: Sieci](notatki/lekcja_5_sieci.md)
 * [Lekcja 6: Zarządzanie procesami i zadaniami](notatki/lekcja_6_zarzadzanie_procesami_i_zadaniami.md)
 * [Lekcja 7: Architektura Systemu](notatki/lekcja_7_architektura_systemu.md)
+
+## Przerwa w robieniu notatek z linuxa (26.04.2026)
+Postanowiłem, że przestanę publikować notatki z Linuxa, ponieważ przesiadam się na platformę **Linux Journey**. Pisanie tych notatek jest zbyt czasochłonne, a wolałbym poświęcić ten czas na praktykę i naukę podstaw. Planuję wrócić do dokumentacji progresu, gdy będę miał za sobą podstawy i zacznę tworzyć małe projekty, gdyż póki co jest to nieefektywne.
